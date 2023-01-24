@@ -1,5 +1,5 @@
-<h1>json-server</h1>
+# server-estoque-saude+
 
-<p>Trabalho individual do terceiro modulo dos Programadores Cariocas: API desenvolvido neste modulo.</p>
+sever feito para armazenar dados do trabalho em grupo do modulo 3
 
-Link no render: https://servidor-vite.onrender.com
+link no render: https://server-estoque-saude.onrender.com

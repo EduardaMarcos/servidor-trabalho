@@ -1,0 +1,92 @@
+{
+    "usuario": [
+        {
+            "id": 0,
+            "login": "PachecoBango2",
+            "senha": "12345678",
+            "farmacia": "Pacheco",
+            "email": "pachecobangu@gmail.com",
+            "cep": "21852-580",
+            "bairro": "Bangu",
+            "rua": "Avenida Conego De Vasconcelos",
+            "numero": "136",
+            "estado": "Rio De Janeiro",
+            "cidade": "Rio De Janeiro"
+        }
+    ],
+    "dados": [
+        {
+            "id": 0,
+            "produtos": [
+                {
+                    "produto": "Kit Neutrogena Sun Fresh Protetor Solar Corporal FPS70 200ml + Facial FPS70 40g",
+                    "quantidade": "73",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/993851-1000-1000/718440---kit-neutrogena-sun-fresh-protetor-solar-corporal-fps70-200ml-facial-fps70-40g.jpg?v=638023132569030000"
+                },
+                {
+                    "produto": "Sabonete Líquido Lux Botanicals Orquídea Negra Refil 200ml",
+                    "quantidade": "240",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/1012151-1000-1000/661392---sabonete-liquido-refil-lux-botanicals-orquidea-negra-200ml-unilever-1.jpg?v=638076804379730000"
+                },
+                {
+                    "produto": "Escova Dental Colgate Classic Clean 3 Unidades",
+                    "quantidade": "182",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/761147-1000-1000/685674---escova-dental-colgate-classic-clean-3-unidades.jpg?v=637812197202100000"
+                },
+                {
+                    "produto": "Dipirona Sódica 500mg Genérico EMS 10 Comprimidos",
+                    "quantidade": "523",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/790429-1000-1000/67563---dipirona-sodica-500mg-generico-ems-10-comprimidos-1.jpg?v=637835641448400000"
+                },
+                {
+                    "produto": "Amoxicilina + Clavulanato de Potássio 875mg Genérico Eurofarma 14 Comprimidos",
+                    "quantidade": "346",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/669119-1000-1000/264709---amoxicilina-clavulanato-de-potassio-875mg-generico-eurofarma-14-comprimidos.jpg?v=637823633109330000"
+                },
+                {
+                    "produto": "Desodorante Antitranspirante Aerosol Masculino Rexona Active Dry 72 horas 150ml",
+                    "quantidade": "120",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/924966-1000-1000/464473---desodorante-antitranspirante-rexona-men-active-dry-150ml-1.jpg?v=637946424160870000"
+                },
+                {
+                    "produto": "Protetor Labial Ever Care Morango 3,6g",
+                    "quantidade": "32",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/766753-1000-1000/707023---protetor-labial-ever-care-morango-3-6g.jpg?v=637823467877830000"
+                },
+                {
+                    "produto": "Unhas Postiças Kiss All Fired Up Média",
+                    "quantidade": "21",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/909451-1000-1000/578878---unhas-posticas-kiss-all-fired-up-media.jpg?v=637935039336970000"
+                },
+                {
+                    "produto": "Shampoo Seda Liso Perfeito 325ml",
+                    "quantidade": "61",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/874580-1000-1000/548936---shampoo-seda-liso-perfeito-325ml-1.jpg?v=637897183678530000"
+                },
+                {
+                    "produto": "Fralda Descartável Turma da Mônica Baby P 62 Unidades",
+                    "quantidade": "30",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/850968-1000-1000/738948---Fralda-Descartavel-Turma-da-Monica-Baby-P-62-Unidades-1.jpg?v=637885774545230000"
+                },
+                {
+                    "produto": "Preservativo Jontex XL Lubrificado 3 Unidades",
+                    "quantidade": "33",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/797094-1000-1000/337471---preservativo-jontex-xl-lubrificado-3-unidades.jpg?v=637841794101630000"
+                },
+                {
+                    "produto": "Esmalte Cremoso Risqué Léo Mandou Flores 8ml",
+                    "quantidade": "67",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/887084-1000-1000/635600---esmalte-cremoso-risque-leo-mandou-flores-8ml.jpg?v=637908148135530000"
+                },
+                {
+                    "produto": "Creme Para Pentear Salon Line Brilho Máximo 1kg",
+                    "quantidade": "45",
+                    "imagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/763870-1000-1000/676233---creme-para-pentear-salon-line-brilho-maximo-1kg.jpg?v=637814203687800000"
+                }
+            ]
+        }
+    ],
+    "feedback": [
+        
+    ]
+}
